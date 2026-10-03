@@ -1,0 +1,2 @@
+# Netlify: forward /api to the Render server. Replace YOUR-SERVICE with your Render service name.
+/api/*  https://YOUR-SERVICE.onrender.com/api/:splat  200
